@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Prafukl
+- 👀 I’m interested in  Tech...
+- 🌱 I’m currently learning ...Java 
+- 💞️ I’m looking to collaborate on ...Java projects 
+- 📫 How to reach me ...prafullp50@gmail.com
