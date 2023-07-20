@@ -15,3 +15,6 @@
 
 ⚡ Fun fact: In my free time, I enjoy playing video games and experimenting with different programming languages.
 
+
+
+![Colorful Shapes Header Banner](https://github.com/Prafukl/Prafukl/assets/100024686/4336ad47-089d-414f-b54c-650b6a494dd2)
