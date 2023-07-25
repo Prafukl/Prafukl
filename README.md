@@ -1,4 +1,3 @@
-![html5-original](https://github.com/Prafukl/Prafukl/assets/100024686/cfbd373b-53d1-458e-8a1e-c27bf39b122c)
 
 ![Orange and Brown Illustrated Welcome To Summer Camp Banner](https://github.com/Prafukl/Prafukl/assets/100024686/1c7759c7-b827-4fa4-a57e-35944f87f24f)
 #ABOUT 
