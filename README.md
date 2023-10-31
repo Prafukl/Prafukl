@@ -14,11 +14,11 @@
 
 - 🚀 **Tech Enthusiast:** I'm constantly exploring new technologies, tools, and best practices to stay at the forefront of software development. I'm passionate about writing clean, efficient, and well-documented code.
 
-- 🛠 **Support Engineering:** In addition to my technical skills, I'm also experienced in support engineering. I'm dedicated to helping users and clients resolve technical issues, providing top-notch support, and ensuring smooth system operations.
+- 🛠 **Support Engineering:** In addition to my technical skills, I'm also experienced in support engineering. I'm dedicated to helping users and clients resolve technical issues, providing top-notch support, and ensuring smooth system operations  [Roadmap,sh]
+   (https://api.roadmap.sh/v1-badge/wide/65117837c55ba29dca4dfc48?variant=dark).
 
-- 📝 **Technical Writing:** I have a passion for writing about computer software and hardware. I love sharing my knowledge and insights through articles and documentation. You can find my tech articles on [Medium](https://medium.com/@yourusername).
-
-
+- 📝 **Technical Writing:** I have a passion for writing about computer software and hardware. I love sharing my knowledge and insights through articles and documentation. You can find my tech articles on [Medium](https://medium.com/@yourusername)
+  
 #### Languages and Tools:
 - 💻 Python, Java, SQL
 - 🛢️ PostgreSQL, MongoDB, Redis
