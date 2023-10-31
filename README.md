@@ -18,7 +18,6 @@
 
 - 📝 **Technical Writing:** I have a passion for writing about computer software and hardware. I love sharing my knowledge and insights through articles and documentation. You can find my tech articles on [Medium](https://medium.com/@yourusername).
 
-#### Languages and Tools:
 
 #### Languages and Tools:
 - 💻 Python, Java, SQL
