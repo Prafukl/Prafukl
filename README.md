@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,I'm [Prafull], </h1>
-<h3 align="center">A Hi 👋, A passionate software engineer with a focus on data engineering and backend development. I thrive on turning data into actionable insights and building robust backend systems to power applications.</h3>
+<h3 align="center">A Hi 👋, A passionate software engineer with a focus on CLoud tech data engineering and backend development. I thrive on turning data into actionable insights and building robust backend systems to power applications.</h3>
 - Follow my tech journey-https://www.prafulltech.com/
 <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 <br>
@@ -17,7 +17,17 @@
 - 🛠 **Support Engineering:** In addition to my technical skills, I'm also experienced in support engineering. I'm dedicated to helping users and clients resolve technical issues, providing top-notch support, and ensuring smooth system operations  
 
 - 📝 **Technical Writing:** I have a passion for writing about computer software and hardware. I love sharing my knowledge and insights through articles and documentation. You can find my tech articles on [Medium](https://medium.com/@yourusername)
-  
+
+#### Cloud Services:
+- ☁️ **Azure:** Experienced in deploying and managing applications on Microsoft Azure cloud platform. Proficient in utilizing Azure services such as Azure SQL Database, Azure Functions, and Azure Storage.
+
+- ☁️ **AWS (Amazon Web Services):** Skilled in building and deploying applications on AWS cloud infrastructure. Familiar with various AWS services including Amazon S3, EC2, Lambda, and RDS.
+
+- ☁️ **GCP (Google Cloud Platform):** Proficient in leveraging Google Cloud Platform for developing and deploying scalable applications. Experienced with GCP services like Google Cloud Storage, Compute Engine, and BigQuery.
+
+- ☁️ **File Cloud Services:** Well-versed in utilizing file cloud services for storing and managing files securely. Experienced with services like Dropbox, Google Drive, and OneDrive for seamless file storage and sharing.
+
+
 #### Languages and Tools:
 - 💻 Python, Java, SQL
 - 🛢️ PostgreSQL, MongoDB, Redis
