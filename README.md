@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋,I'm [Prafull], </h1>
 <h3 align="center">A Hi 👋, A passionate software engineer with a focus on CLoud tech data engineering and backend development. I thrive on turning data into actionable insights and building robust backend systems to power applications.</h3>
-- Follow my tech journey-https://www.prafulltech.com/
+
 <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 <br>
 <img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
