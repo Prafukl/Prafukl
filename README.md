@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,I'm [Prafull], </h1>
-<h3 align="center">A Hi 👋, A passionate software engineer with a focus on CLoud tech data engineering and backend development. I thrive on turning data into actionable insights and building robust backend systems to power applications.</h3>
+<h3 align="center">A Hi 👋, A passionate software engineer with a focus on  IT support , CLoud tech ,data engineering and backend development. I thrive on turning data into actionable insights and building robust backend systems to power applications.</h3>
 
 <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 <br>
