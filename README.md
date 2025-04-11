@@ -23,9 +23,6 @@
 
 - ☁️ **AWS (Amazon Web Services):** Skilled in building and deploying applications on AWS cloud infrastructure. Familiar with various AWS services including Amazon S3, EC2, Lambda, and RDS.
 
-- ☁️ **GCP (Google Cloud Platform):** Proficient in leveraging Google Cloud Platform for developing and deploying scalable applications. Experienced with GCP services like Google Cloud Storage, Compute Engine, and BigQuery.
-
-- ☁️ **File Cloud Services:** Well-versed in utilizing file cloud services for storing and managing files securely. Experienced with services like Dropbox, Google Drive, and OneDrive for seamless file storage and sharing.
 
 
 #### Languages and Tools:
@@ -44,7 +41,7 @@ Let's build the future of data-driven applications together! 🚀
 
 - 📫 How to reach me **prafullp50@gmail.com**
 
-- 🔭 I’m currently working on [slashbase(open source project)](https://github.com/Prafukl/slashbase.git)
+- 🔭 I’m currently working on https://techcommunityconnect.org/
 
 
 
